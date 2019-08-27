@@ -1,0 +1,7 @@
+﻿  源.cpp
+c:\users\creeperjimthu\source\repos\reinforcement learning\reinforcement learning\源.cpp(156): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\creeperjimthu\source\repos\reinforcement learning\reinforcement learning\源.cpp(183): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\creeperjimthu\source\repos\reinforcement learning\reinforcement learning\源.cpp(184): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\creeperjimthu\source\repos\reinforcement learning\reinforcement learning\源.cpp(142): warning C4715: “judge”: 不是所有的控件路径都返回值
+c:\users\creeperjimthu\source\repos\reinforcement learning\reinforcement learning\源.cpp(180): warning C4715: “makeDecision”: 不是所有的控件路径都返回值
+  Reinforcement Learning.vcxproj -> C:\Users\CreeperJimTHU\source\repos\Reinforcement Learning\Debug\Reinforcement Learning.exe
